@@ -1,3 +1,3 @@
 # regression
 Regression problems and solutions.
-Coded i R language.
+Coded in R language.
